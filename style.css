@@ -1,7 +1,12 @@
-a {
-  color: green;
+p {
+  color: red;
 }
 
 body {
   background: gray;
+  color: white;
+}
+
+a {
+  color: green;
 }
